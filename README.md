@@ -1,3 +1,5 @@
+NOTE: This is a .NET Core port of https://github.com/hxseven/Remove-Empty-Directories all credits to him.
+
 Remove Empty Directories
 ========================
 
