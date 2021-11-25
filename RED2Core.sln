@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RED2Core", "RED2Core\RED2Core.csproj", "{B8FA85C7-F553-481D-AF70-CA39821D3F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FA85C7-F553-481D-AF70-CA39821D3F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FA85C7-F553-481D-AF70-CA39821D3F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FA85C7-F553-481D-AF70-CA39821D3F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FA85C7-F553-481D-AF70-CA39821D3F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229F16F8-37B8-45D8-86C4-6431A9C7B08C}
+	EndGlobalSection
+EndGlobal
